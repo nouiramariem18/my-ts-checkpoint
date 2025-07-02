@@ -2,7 +2,7 @@ import React from 'react';
 
 
 interface GreetingProps {
-  name: string; // la prop "name" est une chaîne de caractères
+  name: string;
 }
 
 
