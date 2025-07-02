@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 interface CounterProps {}
 
-// 2️⃣ Interface pour le state
 interface CounterState {
   count: number;
 }
